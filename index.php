@@ -1,18 +1,8 @@
 <!--
-
-/*
-
+ACTUA COMO INCLUDE PERO SI NO ENCUNTRA EL ARCHIVO CORTA EL CODIGO AHI. EL INCLUDE SIGUE CORRIENDO EL RESTO DEL
+CODIGO
 require_once "Ejercicio6/ejercicio6.php";
 
-$nombre = $_GET["nombre"];
-$apellido = $_GET["apellido"];
-$hora = $_GET["hora"];
-
-$persona = new Saludar($nombre, $apellido);
-
-echo $persona->saludoFormal($hora) . $persona->nombreApellido();
-echo "<br>";
-echo $persona->saludoInformal($hora);*/
 ?>-->
 
 <!DOCTYPE html>
